@@ -5,7 +5,6 @@ Copyright 2019 - jmpf_bmx project
 
 Device configuration for SM-G900H
 ======================================
-ttps://www.gsmarc.com/device-images/att/trek-2-hd-tablet/gallery/image_18477.jpg)
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Octa Core 4x1.9 GHz Cortex-A15 & 4x1.3 GHz Cortex-A7
