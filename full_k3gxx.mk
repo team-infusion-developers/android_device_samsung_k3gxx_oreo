@@ -24,7 +24,7 @@ PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G900H
 PRODUCT_MANUFACTURER := samsung
 
-# Inherit from jasmine device
+# Inherit from k3gxx device
 $(call inherit-product, device/samsung/k3gxx/device.mk)
 $(call inherit-product, vendor/samsung/k3gxx/k3gxx-vendor.mk)
 
