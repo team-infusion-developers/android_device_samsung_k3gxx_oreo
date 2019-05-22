@@ -1,0 +1,2 @@
+add_lunch_combo lineage_k3gxx-userdebug
+add_lunch_combo potato_k3gxx-userdebug
