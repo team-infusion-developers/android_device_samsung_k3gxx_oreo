@@ -1,4 +1,4 @@
-# android_device_samsung_k3gxx
+# android_device_samsung_k3gxx_oreo
 ## Welcome to jmpf_bmx project
 **************************************************************************************
 Copyright 2019 - jmpf_bmx project
