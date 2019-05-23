@@ -15,5 +15,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage.mk \
-    $(LOCAL_DIR)/potato_k3gxx.mk \
     $(LOCAL_DIR)/full_k3gxx.mk
