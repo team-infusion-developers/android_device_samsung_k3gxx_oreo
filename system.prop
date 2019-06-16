@@ -134,6 +134,3 @@ pm.sleep_mode=4
 
 # GPS
 ro.ril.def.agps.mode=1
-
-# Vendor security patch level
-ro.lineage.build.vendor_security_patch=2017-08-01
