@@ -34,8 +34,6 @@ media.stagefright.less-secure=true
 
 # Wifi
 wlan.wfd.hdcp=disable
-ro.disableWifiApFirmwareReload=true
-wifi.interface=wlan0
 
 # Audio
 audio_hal.force_voice_config=wide
